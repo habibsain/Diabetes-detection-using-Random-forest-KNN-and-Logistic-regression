@@ -6,4 +6,4 @@ The accuracy is 96.0
 ## For Logistic regression Classifier
 The accuracy is 80.0
 
-###KNN is most accurate to classify the dataset 
+##KNN is most accurate to classify the dataset among the three
